@@ -1,12 +1,61 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "todos": [{
+      "id": 1,
+      "date": "Tue May 24 2022 13: 57: 24 GMT + 0000(Coordinated Universal Time)",
+      "title": "ea commodi in",
+      "description": "Eos autem dignissimos adipisci rem laudantium accusamus.Et impedit in pariatur iure sint.",
+      "user": {
+        "id": 1,
+        "first_name": "Cory",
+        "last_name": "Rohan"
+      }
+    },
+    {
+      "id": 2,
+      "date": "Tue Aug 23 2022 22:56:28 GMT+0000 (Coordinated Universal Time)",
+      "title": "adipisci nihil itaque",
+      "description": "Error repellendus dolorum fuga. Est soluta hic blanditiis odio est distinctio animi. Repudiandae est officia earum dolores qui omnis eveniet mollitia. Dolore consectetur molestiae assumenda rerum quia qui id est.",
+      "user": {
+        "id": 1,
+        "first_name": "Rafaela",
+        "last_name": "Heaney"
+      }
+    },
+    {
+      "id": 3,
+      "date": "Mon Mar 20 2023 13:41:50 GMT+0000 (Coordinated Universal Time)",
+      "title": "a qui voluptas",
+      "description": "Mollitia aut delectus. Optio et quas temporibus doloribus qui. Repellat sapiente sunt sed voluptas ut eum quia eius. Sit cum minima. Dignissimos quibusdam libero ea molestias quaerat qui voluptate unde iusto. Nihil atque ea corporis suscipit placeat earum quia.",
+      "user": {
+        "id": 1,
+        "first_name": "Elmo",
+        "last_name": "Buckridge"
+      }
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "posts": [{
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [{
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
   "profile": {
     "name": "typicode"
