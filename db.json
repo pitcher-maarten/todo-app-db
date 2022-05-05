@@ -16,7 +16,7 @@
       "title": "adipisci nihil itaque",
       "description": "Error repellendus dolorum fuga. Est soluta hic blanditiis odio est distinctio animi. Repudiandae est officia earum dolores qui omnis eveniet mollitia. Dolore consectetur molestiae assumenda rerum quia qui id est.",
       "user": {
-        "id": 1,
+        "id": 2,
         "first_name": "Rafaela",
         "last_name": "Heaney"
       }
@@ -27,12 +27,26 @@
       "title": "a qui voluptas",
       "description": "Mollitia aut delectus. Optio et quas temporibus doloribus qui. Repellat sapiente sunt sed voluptas ut eum quia eius. Sit cum minima. Dignissimos quibusdam libero ea molestias quaerat qui voluptate unde iusto. Nihil atque ea corporis suscipit placeat earum quia.",
       "user": {
-        "id": 1,
-        "first_name": "Elmo",
-        "last_name": "Buckridge"
+        "id": 2,
+        "first_name": "Rafaela",
+        "last_name": "Heaney"
       }
     }
   ],
+  "users": [{
+    "id": 1,
+    "first_name": "Cory",
+    "last_name": "Rohan"
+  }, {
+    "id": 2,
+    "first_name": "Rafaela",
+    "last_name": "Heaney"
+  }, {
+    "id": 3,
+    "first_name": "Elmo",
+    "last_name": "Buckridge"
+
+  }],
   "profile": {
     "name": "typicode"
   }
